@@ -8,6 +8,7 @@
             "email": "info@fschmid.dev"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=7.4",
         "symfony/framework-bundle": "^4.4",
