@@ -19,4 +19,15 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+### PHPStorm
 .idea/
+
+### SymfonyBundle
+.env
+.env.test
+bin/
+config/
+public/
+src/Kernel.php
+symfony.lock
+tests/bootstrap.php
