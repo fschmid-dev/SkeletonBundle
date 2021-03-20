@@ -31,3 +31,6 @@ public/
 src/Kernel.php
 symfony.lock
 tests/bootstrap.php
+
+### Doctrine
+migrations/
