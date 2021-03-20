@@ -1,5 +1,4 @@
 # SkeletonBundle
-================
 
 Symfony Skeleton Bundle
 
